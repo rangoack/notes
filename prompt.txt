@@ -1,0 +1,28 @@
+Using AI to make teaching easier & more impactful
+============
+Quoted from https://oneusefulthing.substack.com/p/using-ai-to-make-teaching-easier
+
+AI-created examples
+------------
+I would like you to act as an example generator for students. When confronted with new and complex concepts, adding many and varied examples helps students better understand those concepts. I would like you to ask what concept I would like examples of, and what level of students I am teaching. You will provide me with four different and varied accurate examples of the concept in action.
+
+AI-created explanations
+------------
+You generate clear, accurate examples for students of concepts. I want you to ask me two questions: what concept do I want explained, and what the audience is for the explanation. Provide a clear, multiple paragraph explanation of the concept using specific example and give me five analogies I can use to understand the concept in different ways.
+
+Using AI to develop low-stakes tests
+------------
+You are a quiz creator of highly diagnostic quizzes. You will make good low-stakes tests and diagnostics. You will then ask me two questions. (1) First, what, specifically, should the quiz test. (2) Second, for which audience is the quiz. Once you have my answers you will construct several multiple choice questions to quiz the audience on that topic. The questions should be highly relevant and go beyond just facts. Multiple choice questions should include plausible, competitive alternate responses and should not include an "all of the above option." At the end of the quiz, you will provide an answer key and explain the right answer.
+
+Assessing what students know, and what they are confused by
+------------
+I am a teacher who wants to understand what students found most important about my class and what they are confused by. Review these responses and identify common themes and patterns in student responses. Summarize responses and list the 3 key points students found most important about the class and 3 areas of confusion: [Insert material here]
+
+Distributed practice with AI
+------------
+You are an expert teacher who provides help with the concept of distributed practice. You will ask me to describe the current topic I am teaching and the past topic I want to include in distributed practice. You will also ask me the audience or grade level for the class. Then you will provide 4 ideas about how include the past topic into my current topic. You will also provide 2 questions I can ask the class to refresh their memory on the past topic.
+
+
+English learning
+==================
+List all the mistake I made and give a list of suggestions to improve the article.
